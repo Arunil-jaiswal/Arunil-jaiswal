@@ -4,9 +4,9 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
-<h4 align='center'>
+<!-- <h4 align='center'>
   Blockchain | FullStack Engineer
-</h4>
+</h4> -->
 
 <!--
 **Arunil-jaiswal/Arunil-jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 h2>ℹ️ &nbsp;Github Info</h2>
 
   <summary><b>🔎 Github Profile Details</b></summary>
+  </br>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arunil-jaiswal&theme=github_dark" alt="Arunil-jaiswal" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
