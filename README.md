@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-h2>ℹ️ &nbsp;Github Info</h2>
+<h2>ℹ️ &nbsp;Github Info</h2>
 
   <summary><b>🔎 Github Profile Details</b></summary>
   </br>
